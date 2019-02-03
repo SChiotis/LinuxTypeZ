@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+Welcome to LinuxTypeZ Project.
 
-You can use the [editor on GitHub](https://github.com/IvanKowalsky/LinuxTypeZ/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+LinuxTypez included the Linux 4.20.6, current stable patched and modified to be Compatible with Intel Cherry Tail CPUs (SoCs).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Informations:
+https://www.intel.com/content/www/us/en/design/mobile-devices/platforms/cherry-trail/overview.html
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cherry Tail Family:
+https://ark.intel.com/products/codename/46629/cherry-trail
 
-```markdown
-Syntax highlighted code block
+This Kernel Build made accordingly the cherry-trail-linux-git project from Arch Linux AUR repository, that this is at inactive status.
+https://aur.archlinux.org/packages/linux-cherry-trail/
+The same patches have been applied with small hacks for the Kernel Version migration purposes.
 
-# Header 1
-## Header 2
-### Header 3
+This Linux Kernel Code is compatible with every Linux Distribtion, you may build it with the Kernel Build informations provided from your distribution Community Support Pages.
 
-- Bulleted
-- List
+For example you may use the below Wiki for Arch Linux Installations:
+https://wiki.archlinux.org/index.php/Kernel/Traditional_compilation
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IvanKowalsky/LinuxTypeZ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
