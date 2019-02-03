@@ -1,4 +1,4 @@
-#Welcome to LinuxTypeZ Project.
+Welcome to LinuxTypeZ Project.
 
 
 LinuxTypez included the Linux 4.20.6, current stable patched and modified to be Compatible with Intel Cherry Tail CPUs (SoCs).
@@ -26,4 +26,6 @@ distribution Community Support Pages.
 For example you may use the below Wiki for Arch Linux Installations:
 
 https://wiki.archlinux.org/index.php/Kernel/Traditional_compilation
+
+'TypeZ referring to Intel Atom Z name coding.'
 
