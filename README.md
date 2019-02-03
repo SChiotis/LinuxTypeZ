@@ -1,4 +1,4 @@
-Welcome to LinuxTypeZ Project.
+#Welcome to LinuxTypeZ Project.
 
 
 LinuxTypez included the Linux 4.20.6, current stable patched and modified to be Compatible with Intel Cherry Tail CPUs (SoCs).
