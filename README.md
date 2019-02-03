@@ -22,7 +22,7 @@ For example you may use the below Wiki for Arch Linux Installations:
 
 https://wiki.archlinux.org/index.php/Kernel/Traditional_compilation
 
-Already Tested to HP Pavilion X2 Detachable Netbook
+Already Tested to HP Pavilion X2 Detachable Netbook z8300
 Sound patch is not working, Battery (Charging) and Touchpad is operational.
 
 'TypeZ referring to Intel Atom Z name coding.'
