@@ -1,12 +1,12 @@
 Welcome to LinuxTypeZ Project.
 
-LinuxTypez included the Linux 4.20.6, current stable patched and modified to be Compatible with Intel Cherry Tail CPUs (SoCs).
+LinuxTypez included the Linux 4.20.6, current stable patched and modified to be Compatible with Intel Cherry Trail CPUs (SoCs).
 
 Informations:
 
 https://www.intel.com/content/www/us/en/design/mobile-devices/platforms/cherry-trail/overview.html
 
-Cherry Tail Family:
+Cherry Trail Family:
 
 https://ark.intel.com/products/codename/46629/cherry-trail
 
